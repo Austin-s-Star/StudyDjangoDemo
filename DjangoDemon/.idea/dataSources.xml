@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Django default" uuid="45d42b8f-fad6-4a1b-bffd-3583cc9a6d97">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/DjangoDemon/settings.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\DevSapce\PythonSpace\MyFirstDjango\DjangoDemon\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="firstDatabase@localhost" uuid="4340bfe6-2d1b-4af9-abfa-0809a51c3aab">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/firstDatabase</jdbc-url>
+    </data-source>
+  </component>
+</project>
